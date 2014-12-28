@@ -1,0 +1,5 @@
+<Projectile id="sdf">
+<ObjectId>fdg</ObjectId>
+<Speed>sdf</Speed>
+<LifetimeMS>sdf</LifetimeMS>
+</Projectile>

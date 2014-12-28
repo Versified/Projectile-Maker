@@ -1,0 +1,9 @@
+C:\Users\Bailey\Documents\Visual Studio 2012\Projects\Projectile Maker\Projectile Maker\bin\Debug\Projectile Maker.exe.config
+C:\Users\Bailey\Documents\Visual Studio 2012\Projects\Projectile Maker\Projectile Maker\bin\Debug\Projectile Maker.exe
+C:\Users\Bailey\Documents\Visual Studio 2012\Projects\Projectile Maker\Projectile Maker\bin\Debug\Projectile Maker.pdb
+C:\Users\Bailey\Documents\Visual Studio 2012\Projects\Projectile Maker\Projectile Maker\obj\Debug\Projectile Maker.csprojResolveAssemblyReference.cache
+C:\Users\Bailey\Documents\Visual Studio 2012\Projects\Projectile Maker\Projectile Maker\obj\Debug\Projectile_Maker.ProjectileGUI.resources
+C:\Users\Bailey\Documents\Visual Studio 2012\Projects\Projectile Maker\Projectile Maker\obj\Debug\Projectile_Maker.Properties.Resources.resources
+C:\Users\Bailey\Documents\Visual Studio 2012\Projects\Projectile Maker\Projectile Maker\obj\Debug\Projectile Maker.csproj.GenerateResource.Cache
+C:\Users\Bailey\Documents\Visual Studio 2012\Projects\Projectile Maker\Projectile Maker\obj\Debug\Projectile Maker.exe
+C:\Users\Bailey\Documents\Visual Studio 2012\Projects\Projectile Maker\Projectile Maker\obj\Debug\Projectile Maker.pdb
